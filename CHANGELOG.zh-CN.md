@@ -52,7 +52,7 @@ timeline: true
   - 🤖 优化 Tag `onClose` TypeScript 定义。[#26932](https://github.com/ant-design/ant-design/pull/26932)
   - 🤖 调整 Form 定义，现在当 `getFieldsValue` 不配置 `namePath` 时返回类型为 FormValue 的泛型定义。[#26791](https://github.com/ant-design/ant-design/pull/26791)
 - 国际化
-  - 🇧🇾 新增白俄罗斯语支持。[#27028](https://github.com/ant-design/ant-design/pull/27028) [@StIvan8](https://github.com/StIvan8)
+  - 🇧🇾 新增白罗斯语支持。[#27028](https://github.com/ant-design/ant-design/pull/27028) [@StIvan8](https://github.com/StIvan8)
   - 🇯🇵 调整日语国际化文案。[#27043](https://github.com/ant-design/ant-design/pull/27043) [@iorikingdom](https://github.com/iorikingdom)
   - 🇵🇱 补充 Table 波兰语国际化文案。[#26913](https://github.com/ant-design/ant-design/pull/26913) [@daczczcz1](https://github.com/daczczcz1)
   - 🇹🇷 补充土耳其语可选文案。[#27017](https://github.com/ant-design/ant-design/pull/27017) [@alperTunca](https://github.com/alperTunca)
